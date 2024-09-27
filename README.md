@@ -1,1 +1,2 @@
-# .github
+# About Us
+Wir sind Brickhouse...
